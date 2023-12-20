@@ -38,7 +38,7 @@ To run the Legal Chatbot Advisor locally, follow these steps:
    
 ## Usage
 
-1. Navigate to secrets.toml inside .streamlit folder and update it.
+1. Create secrets.toml inside .streamlit folder and update it with.
    ``` bash
    HUGGINGFACEHUB_API_TOKEN = "YOUR_TOKEN"
    PINECONE_API_KEY = "YOUR_PINECONCE_KEY"
