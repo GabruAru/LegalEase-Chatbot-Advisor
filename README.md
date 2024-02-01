@@ -54,4 +54,15 @@ To run the Legal Chatbot Advisor locally, follow these steps:
 3. Open your web browser and go to http://localhost:8501.
    
 4. Interact with the Legal Chatbot Advisor by entering your legal questions.
+
+
+## Results Comparison with ChatGPT
+
+
+
+![Untitled Diagram (1)](https://github.com/GabruAru/LegalEase-Chatbot-Advisor/assets/84130891/0c9cbc8c-1971-4cbf-b9fc-acea7fd8f41e)
+
+
+
+
    
